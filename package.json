@@ -26,7 +26,7 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
-    "@types/node": "^20",
+    "@types/node": "^20.12.8",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
@@ -39,6 +39,21 @@
     "prisma": "^5.13.0",
     "tailwindcss": "^3.4.1",
     "ts-node": "^10.9.2",
-    "typescript": "^5"
-  }
+    "typescript": "^5.4.5"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotastefani/fsw-foods.git"
+  },
+  "keywords": [
+    "ifood"
+  ],
+  "author": "J.Stefani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jotastefani/fsw-foods/issues"
+  },
+  "homepage": "https://github.com/jotastefani/fsw-foods#readme"
 }
